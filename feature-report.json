@@ -1,0 +1,225 @@
+{
+  "phase": 1,
+  "generatedAt": "2026-08-20T14:12:35.589Z",
+  "decks": [
+    {
+      "name": "01-static",
+      "summary": {
+        "staticSlides": "PASS",
+        "text": "PASS",
+        "images": "PASS",
+        "shapes": "PASS",
+        "svgRendering": "PARTIAL",
+        "video": "N/A",
+        "audio": "N/A",
+        "fadeAnimation": "N/A",
+        "appearAnimation": "N/A",
+        "basicMovement": "N/A",
+        "fadeTransition": "N/A",
+        "pushTransition": "N/A",
+        "wipeTransition": "N/A",
+        "pngFallback": "PASS"
+      },
+      "performance": {
+        "inputSizeBytes": 30037,
+        "svgGenerationMs": 2494,
+        "pngFallbackMs": 2210,
+        "totalMs": 4763,
+        "slideCount": 2,
+        "svgSlideCount": 1,
+        "pngFallbackSlideCount": 1,
+        "outputSizeBytes": 147760
+      }
+    },
+    {
+      "name": "02-video",
+      "summary": {
+        "staticSlides": "PASS",
+        "text": "PASS",
+        "images": "PASS",
+        "shapes": "PASS",
+        "svgRendering": "PASS",
+        "video": "PARTIAL",
+        "audio": "N/A",
+        "fadeAnimation": "N/A",
+        "appearAnimation": "N/A",
+        "basicMovement": "N/A",
+        "fadeTransition": "N/A",
+        "pushTransition": "N/A",
+        "wipeTransition": "N/A",
+        "pngFallback": "PASS"
+      },
+      "performance": {
+        "inputSizeBytes": 53839,
+        "svgGenerationMs": 2292,
+        "pngFallbackMs": null,
+        "totalMs": 2351,
+        "slideCount": 1,
+        "svgSlideCount": 1,
+        "pngFallbackSlideCount": 0,
+        "outputSizeBytes": 56438
+      }
+    },
+    {
+      "name": "03-audio",
+      "summary": {
+        "staticSlides": "PASS",
+        "text": "PASS",
+        "images": "PASS",
+        "shapes": "PASS",
+        "svgRendering": "PASS",
+        "video": "N/A",
+        "audio": "PARTIAL",
+        "fadeAnimation": "N/A",
+        "appearAnimation": "N/A",
+        "basicMovement": "N/A",
+        "fadeTransition": "N/A",
+        "pushTransition": "N/A",
+        "wipeTransition": "N/A",
+        "pngFallback": "PASS"
+      },
+      "performance": {
+        "inputSizeBytes": 34109,
+        "svgGenerationMs": 2207,
+        "pngFallbackMs": null,
+        "totalMs": 2266,
+        "slideCount": 1,
+        "svgSlideCount": 1,
+        "pngFallbackSlideCount": 0,
+        "outputSizeBytes": 78284
+      }
+    },
+    {
+      "name": "04-animation",
+      "summary": {
+        "staticSlides": "PASS",
+        "text": "PASS",
+        "images": "PASS",
+        "shapes": "PASS",
+        "svgRendering": "PASS",
+        "video": "N/A",
+        "audio": "N/A",
+        "fadeAnimation": "PARTIAL",
+        "appearAnimation": "PARTIAL",
+        "basicMovement": "N/A",
+        "fadeTransition": "N/A",
+        "pushTransition": "N/A",
+        "wipeTransition": "N/A",
+        "pngFallback": "PASS"
+      },
+      "performance": {
+        "inputSizeBytes": 28684,
+        "svgGenerationMs": 2193,
+        "pngFallbackMs": null,
+        "totalMs": 2249,
+        "slideCount": 1,
+        "svgSlideCount": 1,
+        "pngFallbackSlideCount": 0,
+        "outputSizeBytes": 36006
+      }
+    },
+    {
+      "name": "05-transition",
+      "summary": {
+        "staticSlides": "PASS",
+        "text": "PASS",
+        "images": "PASS",
+        "shapes": "PASS",
+        "svgRendering": "PASS",
+        "video": "N/A",
+        "audio": "N/A",
+        "fadeAnimation": "N/A",
+        "appearAnimation": "N/A",
+        "basicMovement": "N/A",
+        "fadeTransition": "PARTIAL",
+        "pushTransition": "PARTIAL",
+        "wipeTransition": "PARTIAL",
+        "pngFallback": "PASS"
+      },
+      "performance": {
+        "inputSizeBytes": 30118,
+        "svgGenerationMs": 2272,
+        "pngFallbackMs": null,
+        "totalMs": 2327,
+        "slideCount": 3,
+        "svgSlideCount": 3,
+        "pngFallbackSlideCount": 0,
+        "outputSizeBytes": 42708
+      }
+    },
+    {
+      "name": "06-combined",
+      "summary": {
+        "staticSlides": "PASS",
+        "text": "PASS",
+        "images": "PASS",
+        "shapes": "PASS",
+        "svgRendering": "PASS",
+        "video": "PARTIAL",
+        "audio": "PARTIAL",
+        "fadeAnimation": "PARTIAL",
+        "appearAnimation": "PARTIAL",
+        "basicMovement": "N/A",
+        "fadeTransition": "PARTIAL",
+        "pushTransition": "N/A",
+        "wipeTransition": "N/A",
+        "pngFallback": "PASS"
+      },
+      "performance": {
+        "inputSizeBytes": 57026,
+        "svgGenerationMs": 2287,
+        "pngFallbackMs": null,
+        "totalMs": 2347,
+        "slideCount": 3,
+        "svgSlideCount": 3,
+        "pngFallbackSlideCount": 0,
+        "outputSizeBytes": 145646
+      }
+    },
+    {
+      "name": "Improved_Internship_Presentation",
+      "summary": {
+        "staticSlides": "PASS",
+        "text": "PASS",
+        "images": "PASS",
+        "shapes": "PASS",
+        "svgRendering": "PASS",
+        "video": "N/A",
+        "audio": "N/A",
+        "fadeAnimation": "N/A",
+        "appearAnimation": "N/A",
+        "basicMovement": "N/A",
+        "fadeTransition": "N/A",
+        "pushTransition": "N/A",
+        "wipeTransition": "N/A",
+        "pngFallback": "PASS"
+      },
+      "performance": {
+        "inputSizeBytes": 46427,
+        "svgGenerationMs": 2272,
+        "pngFallbackMs": null,
+        "totalMs": 2339,
+        "slideCount": 13,
+        "svgSlideCount": 13,
+        "pngFallbackSlideCount": 0,
+        "outputSizeBytes": 2320790
+      }
+    }
+  ],
+  "summary": {
+    "staticSlides": "PASS",
+    "text": "PASS",
+    "images": "PASS",
+    "shapes": "PASS",
+    "svgRendering": "PARTIAL",
+    "video": "PARTIAL",
+    "audio": "PARTIAL",
+    "fadeAnimation": "PARTIAL",
+    "appearAnimation": "PARTIAL",
+    "basicMovement": "N/A",
+    "fadeTransition": "PARTIAL",
+    "pushTransition": "PARTIAL",
+    "wipeTransition": "PARTIAL",
+    "pngFallback": "PASS"
+  }
+}

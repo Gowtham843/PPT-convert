@@ -1,0 +1,60 @@
+{
+  "generatedAt": "2026-08-21T09:18:59.492Z",
+  "results": {
+    "01-fade-click": {
+      "status": "PASS",
+      "targetId": "3",
+      "before": 0,
+      "after": 1,
+      "pass": true,
+      "reason": null
+    },
+    "02-appear-sequence": {
+      "status": "PASS",
+      "pass": true,
+      "reason": null
+    },
+    "04-with-previous": {
+      "status": "PASS",
+      "pass": true,
+      "reason": null,
+      "earlyA": 0.524241,
+      "earlyB": 0.524241,
+      "lateA": 1,
+      "lateB": 1
+    },
+    "05-after-previous": {
+      "status": "PASS",
+      "pass": true,
+      "reason": null,
+      "midA": 0.960419,
+      "midB": 0,
+      "lateB": 1
+    },
+    "06-multiple-effects": {
+      "status": "PASS",
+      "pass": true,
+      "reason": null,
+      "maxEnd": 1700,
+      "opacities": [
+        1,
+        1,
+        1
+      ]
+    },
+    "07-object-click": {
+      "status": "PASS",
+      "pass": true,
+      "reason": null,
+      "before": 0,
+      "after": 1
+    },
+    "08-motion-path": {
+      "status": "PASS",
+      "pass": true,
+      "before": "matrix(1, 0, 0, 1, 96, 288)",
+      "after": "matrix(1, 0, 0, 1, 120, 0)",
+      "reason": null
+    }
+  }
+}

@@ -1,0 +1,1708 @@
+{
+  "generatedAt": "2026-09-08T07:23:23.593Z",
+  "note": "Parsed by repo timeline-parser (own HTML5 pipeline). RENDERABLE = viewer runtime supports it.",
+  "counts": {
+    "RENDERABLE": 167,
+    "DETECTED_UNSUPPORTED": 0,
+    "UNPARSED": 0,
+    "total": 167
+  },
+  "byCategory": {
+    "entr": {
+      "total": 40,
+      "renderable": 40,
+      "unsupported": 0,
+      "unparsed": 0
+    },
+    "emph": {
+      "total": 24,
+      "renderable": 24,
+      "unsupported": 0,
+      "unparsed": 0
+    },
+    "exit": {
+      "total": 40,
+      "renderable": 40,
+      "unsupported": 0,
+      "unparsed": 0
+    },
+    "motion": {
+      "total": 63,
+      "renderable": 63,
+      "unsupported": 0,
+      "unparsed": 0
+    }
+  },
+  "effects": [
+    {
+      "index": 3,
+      "name": "Appear",
+      "category": "entr",
+      "authoredPreset": "1",
+      "parsedEffect": "appear",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 4,
+      "name": "Box",
+      "category": "entr",
+      "authoredPreset": "4",
+      "parsedEffect": "box",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 5,
+      "name": "Circle",
+      "category": "entr",
+      "authoredPreset": "6",
+      "parsedEffect": "circle",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 6,
+      "name": "Diamond",
+      "category": "entr",
+      "authoredPreset": "8",
+      "parsedEffect": "diamond",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 7,
+      "name": "Blinds",
+      "category": "entr",
+      "authoredPreset": "3",
+      "parsedEffect": "blinds",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 8,
+      "name": "Checkerboard",
+      "category": "entr",
+      "authoredPreset": "5",
+      "parsedEffect": "checkerboard",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 9,
+      "name": "Dissolve In",
+      "category": "entr",
+      "authoredPreset": "9",
+      "parsedEffect": "dissolve",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 10,
+      "name": "Fly In (From Bottom)",
+      "category": "entr",
+      "authoredPreset": "2",
+      "parsedEffect": "flyIn",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 11,
+      "name": "Peek In (From Bottom)",
+      "category": "entr",
+      "authoredPreset": "12",
+      "parsedEffect": "peek",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 12,
+      "name": "Random Bars",
+      "category": "entr",
+      "authoredPreset": "14",
+      "parsedEffect": "randombars",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 13,
+      "name": "Split (Vertical In)",
+      "category": "entr",
+      "authoredPreset": "16",
+      "parsedEffect": "split",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 14,
+      "name": "Wedge",
+      "category": "entr",
+      "authoredPreset": "20",
+      "parsedEffect": "wedge",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 15,
+      "name": "Wipe (From Bottom)",
+      "category": "entr",
+      "authoredPreset": "22",
+      "parsedEffect": "wipe",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 16,
+      "name": "Plus",
+      "category": "entr",
+      "authoredPreset": "13",
+      "parsedEffect": "plus",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 17,
+      "name": "Strips (Down Left)",
+      "category": "entr",
+      "authoredPreset": "18",
+      "parsedEffect": "strips",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 18,
+      "name": "Wheel (1 Spoke)",
+      "category": "entr",
+      "authoredPreset": "21",
+      "parsedEffect": "wheel",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 19,
+      "name": "Expand",
+      "category": "entr",
+      "authoredPreset": "50",
+      "parsedEffect": "growShrink",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 20,
+      "name": "Fade",
+      "category": "entr",
+      "authoredPreset": "10",
+      "parsedEffect": "fade",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 21,
+      "name": "Swivel",
+      "category": "entr",
+      "authoredPreset": "19",
+      "parsedEffect": "spin",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 22,
+      "name": "Zoom",
+      "category": "entr",
+      "authoredPreset": "23",
+      "parsedEffect": "growShrink",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 23,
+      "name": "Basic Zoom (In)",
+      "category": "entr",
+      "authoredPreset": "53",
+      "parsedEffect": "growShrink",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 24,
+      "name": "Center Revolve",
+      "category": "entr",
+      "authoredPreset": "47",
+      "parsedEffect": "spin",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 25,
+      "name": "Grow & Turn",
+      "category": "entr",
+      "authoredPreset": "37",
+      "parsedEffect": "spin",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 26,
+      "name": "Spinner",
+      "category": "entr",
+      "authoredPreset": "51",
+      "parsedEffect": "spin",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 27,
+      "name": "Float Down (In)",
+      "category": "entr",
+      "authoredPreset": "52",
+      "parsedEffect": "fade",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 28,
+      "name": "Float Up (In)",
+      "category": "entr",
+      "authoredPreset": "53",
+      "parsedEffect": "fade",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 29,
+      "name": "Rise Up",
+      "category": "entr",
+      "authoredPreset": "40",
+      "parsedEffect": "fade",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 30,
+      "name": "Compress",
+      "category": "entr",
+      "authoredPreset": "56",
+      "parsedEffect": "growShrink",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 31,
+      "name": "Stretch",
+      "category": "entr",
+      "authoredPreset": "17",
+      "parsedEffect": "growShrink",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 32,
+      "name": "Basic Swivel",
+      "category": "entr",
+      "authoredPreset": "54",
+      "parsedEffect": "spin",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 33,
+      "name": "Bounce",
+      "category": "entr",
+      "authoredPreset": "33",
+      "parsedEffect": "growShrink",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 34,
+      "name": "Curve Up",
+      "category": "entr",
+      "authoredPreset": "34",
+      "parsedEffect": "curveUp",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 35,
+      "name": "Flip",
+      "category": "entr",
+      "authoredPreset": "35",
+      "parsedEffect": "growShrink",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 36,
+      "name": "Pinwheel",
+      "category": "entr",
+      "authoredPreset": "39",
+      "parsedEffect": "spin",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 37,
+      "name": "Whip",
+      "category": "entr",
+      "authoredPreset": "45",
+      "parsedEffect": "spin",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 38,
+      "name": "Boomerang",
+      "category": "entr",
+      "authoredPreset": "32",
+      "parsedEffect": "spin",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 39,
+      "name": "Credits",
+      "category": "entr",
+      "authoredPreset": "34",
+      "parsedEffect": "fade",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 40,
+      "name": "Drop",
+      "category": "entr",
+      "authoredPreset": "36",
+      "parsedEffect": "fade",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 41,
+      "name": "Float",
+      "category": "entr",
+      "authoredPreset": "30",
+      "parsedEffect": "fade",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 42,
+      "name": "Spiral In",
+      "category": "entr",
+      "authoredPreset": "15",
+      "parsedEffect": "spin",
+      "parsedType": "entrance",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 44,
+      "name": "Fill Color (→ red)",
+      "category": "emph",
+      "authoredPreset": "1",
+      "parsedEffect": "fillColor",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 45,
+      "name": "Font Color (→ red)",
+      "category": "emph",
+      "authoredPreset": "2",
+      "parsedEffect": "fontColor",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 46,
+      "name": "Grow/Shrink (→ 150%)",
+      "category": "emph",
+      "authoredPreset": "6",
+      "parsedEffect": "growShrink",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 47,
+      "name": "Transparency (→ 50%)",
+      "category": "emph",
+      "authoredPreset": "9",
+      "parsedEffect": "transparency",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 48,
+      "name": "Spin (360°)",
+      "category": "emph",
+      "authoredPreset": "8",
+      "parsedEffect": "spin",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 49,
+      "name": "Line Color (→ red)",
+      "category": "emph",
+      "authoredPreset": "7",
+      "parsedEffect": "lineColor",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 50,
+      "name": "Bold Flash",
+      "category": "emph",
+      "authoredPreset": "10",
+      "parsedEffect": "fade",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 51,
+      "name": "Complementary Color",
+      "category": "emph",
+      "authoredPreset": "14",
+      "parsedEffect": "fillColor",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 52,
+      "name": "Complementary Color 2",
+      "category": "emph",
+      "authoredPreset": "15",
+      "parsedEffect": "fillColor",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 53,
+      "name": "Brush Color",
+      "category": "emph",
+      "authoredPreset": "12",
+      "parsedEffect": "fontColor",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 54,
+      "name": "Contrasting Color",
+      "category": "emph",
+      "authoredPreset": "16",
+      "parsedEffect": "fillColor",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 55,
+      "name": "Darken",
+      "category": "emph",
+      "authoredPreset": "17",
+      "parsedEffect": "transparency",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 56,
+      "name": "Desaturate",
+      "category": "emph",
+      "authoredPreset": "18",
+      "parsedEffect": "fillColor",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 57,
+      "name": "Lighten",
+      "category": "emph",
+      "authoredPreset": "22",
+      "parsedEffect": "fillColor",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 58,
+      "name": "Object Color",
+      "category": "emph",
+      "authoredPreset": "25",
+      "parsedEffect": "fillColor",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 59,
+      "name": "Pulse",
+      "category": "emph",
+      "authoredPreset": "35",
+      "parsedEffect": "growShrink",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 60,
+      "name": "Underline",
+      "category": "emph",
+      "authoredPreset": "17",
+      "parsedEffect": "fontColor",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 61,
+      "name": "Color Pulse",
+      "category": "emph",
+      "authoredPreset": "20",
+      "parsedEffect": "fillColor",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 62,
+      "name": "Grow With Color",
+      "category": "emph",
+      "authoredPreset": "21",
+      "parsedEffect": "growShrink",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 63,
+      "name": "Shimmer",
+      "category": "emph",
+      "authoredPreset": "38",
+      "parsedEffect": "fade",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 64,
+      "name": "Teeter",
+      "category": "emph",
+      "authoredPreset": "32",
+      "parsedEffect": "spin",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 65,
+      "name": "Blink",
+      "category": "emph",
+      "authoredPreset": "26",
+      "parsedEffect": "fade",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 66,
+      "name": "Bold Reveal",
+      "category": "emph",
+      "authoredPreset": "11",
+      "parsedEffect": "growShrink",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 67,
+      "name": "Wave",
+      "category": "emph",
+      "authoredPreset": "25",
+      "parsedEffect": "spin",
+      "parsedType": "emphasis",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 69,
+      "name": "Blinds",
+      "category": "exit",
+      "authoredPreset": "3",
+      "parsedEffect": "blinds",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 70,
+      "name": "Checkerboard",
+      "category": "exit",
+      "authoredPreset": "5",
+      "parsedEffect": "checkerboard",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 71,
+      "name": "Diamond",
+      "category": "exit",
+      "authoredPreset": "8",
+      "parsedEffect": "diamond",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 72,
+      "name": "Dissolve Out",
+      "category": "exit",
+      "authoredPreset": "9",
+      "parsedEffect": "dissolve",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 73,
+      "name": "Peek Out (To Bottom)",
+      "category": "exit",
+      "authoredPreset": "12",
+      "parsedEffect": "peek",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 74,
+      "name": "Random Bars",
+      "category": "exit",
+      "authoredPreset": "14",
+      "parsedEffect": "randombars",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 75,
+      "name": "Strips (Up Right)",
+      "category": "exit",
+      "authoredPreset": "18",
+      "parsedEffect": "strips",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 76,
+      "name": "Wheel (1 Spoke)",
+      "category": "exit",
+      "authoredPreset": "21",
+      "parsedEffect": "wheel",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 77,
+      "name": "Box",
+      "category": "exit",
+      "authoredPreset": "4",
+      "parsedEffect": "box",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 78,
+      "name": "Circle",
+      "category": "exit",
+      "authoredPreset": "6",
+      "parsedEffect": "circle",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 79,
+      "name": "Disappear",
+      "category": "exit",
+      "authoredPreset": "1",
+      "parsedEffect": "disappear",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 80,
+      "name": "Fly Out (To Right)",
+      "category": "exit",
+      "authoredPreset": "2",
+      "parsedEffect": "flyOut",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 81,
+      "name": "Plus",
+      "category": "exit",
+      "authoredPreset": "13",
+      "parsedEffect": "plus",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 82,
+      "name": "Split (Vertical Out)",
+      "category": "exit",
+      "authoredPreset": "16",
+      "parsedEffect": "split",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 83,
+      "name": "Wedge",
+      "category": "exit",
+      "authoredPreset": "20",
+      "parsedEffect": "wedge",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 84,
+      "name": "Wipe (To Bottom)",
+      "category": "exit",
+      "authoredPreset": "22",
+      "parsedEffect": "wipe",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 85,
+      "name": "Contract",
+      "category": "exit",
+      "authoredPreset": "17",
+      "parsedEffect": "growShrink",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 86,
+      "name": "Fade",
+      "category": "exit",
+      "authoredPreset": "10",
+      "parsedEffect": "fade",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 87,
+      "name": "Swivel",
+      "category": "exit",
+      "authoredPreset": "19",
+      "parsedEffect": "spin",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 88,
+      "name": "Zoom",
+      "category": "exit",
+      "authoredPreset": "23",
+      "parsedEffect": "growShrink",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 89,
+      "name": "Basic Zoom (Out)",
+      "category": "exit",
+      "authoredPreset": "53",
+      "parsedEffect": "growShrink",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 90,
+      "name": "Center Revolve",
+      "category": "exit",
+      "authoredPreset": "47",
+      "parsedEffect": "spin",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 91,
+      "name": "Float Down (Out)",
+      "category": "exit",
+      "authoredPreset": "52",
+      "parsedEffect": "fade",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 92,
+      "name": "Float Up (Out)",
+      "category": "exit",
+      "authoredPreset": "53",
+      "parsedEffect": "fade",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 93,
+      "name": "Shrink & Turn",
+      "category": "exit",
+      "authoredPreset": "44",
+      "parsedEffect": "spin",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 94,
+      "name": "Spinner",
+      "category": "exit",
+      "authoredPreset": "51",
+      "parsedEffect": "spin",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 95,
+      "name": "Sink Down",
+      "category": "exit",
+      "authoredPreset": "43",
+      "parsedEffect": "sinkDown",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 96,
+      "name": "Collapse",
+      "category": "exit",
+      "authoredPreset": "55",
+      "parsedEffect": "growShrink",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 97,
+      "name": "Stretchy",
+      "category": "exit",
+      "authoredPreset": "56",
+      "parsedEffect": "growShrink",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 98,
+      "name": "Basic Swivel",
+      "category": "exit",
+      "authoredPreset": "54",
+      "parsedEffect": "spin",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 99,
+      "name": "Bounce",
+      "category": "exit",
+      "authoredPreset": "33",
+      "parsedEffect": "fade",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 100,
+      "name": "Curve Down",
+      "category": "exit",
+      "authoredPreset": "34",
+      "parsedEffect": "fade",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 101,
+      "name": "Flip",
+      "category": "exit",
+      "authoredPreset": "35",
+      "parsedEffect": "growShrink",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 102,
+      "name": "Pinwheel",
+      "category": "exit",
+      "authoredPreset": "39",
+      "parsedEffect": "spin",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 103,
+      "name": "Whip",
+      "category": "exit",
+      "authoredPreset": "45",
+      "parsedEffect": "spin",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 104,
+      "name": "Boomerang",
+      "category": "exit",
+      "authoredPreset": "32",
+      "parsedEffect": "spin",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 105,
+      "name": "Credits",
+      "category": "exit",
+      "authoredPreset": "34",
+      "parsedEffect": "fade",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 106,
+      "name": "Drop",
+      "category": "exit",
+      "authoredPreset": "36",
+      "parsedEffect": "drop",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 107,
+      "name": "Float",
+      "category": "exit",
+      "authoredPreset": "30",
+      "parsedEffect": "fade",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 108,
+      "name": "Spiral Out",
+      "category": "exit",
+      "authoredPreset": "15",
+      "parsedEffect": "spin",
+      "parsedType": "exit",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 110,
+      "name": "4 Point Star",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 111,
+      "name": "5 Point Star",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 112,
+      "name": "Hexagon",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 113,
+      "name": "Octagon",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 114,
+      "name": "6 Point Star",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 115,
+      "name": "8 Point Star",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 116,
+      "name": "Parallelogram",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 117,
+      "name": "Pentagon",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 118,
+      "name": "Circle",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 119,
+      "name": "Crescent Moon",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 120,
+      "name": "Right Triangle",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 121,
+      "name": "Square",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 122,
+      "name": "Diamond",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 123,
+      "name": "Equal Triangle",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 124,
+      "name": "Teardrop",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 125,
+      "name": "Trapezoid",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 126,
+      "name": "Football",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 127,
+      "name": "Heart",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 129,
+      "name": "Arc Down",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 130,
+      "name": "Arc Left",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 131,
+      "name": "S Curve 1",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 132,
+      "name": "Spiral Left",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 133,
+      "name": "Arc Right",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 134,
+      "name": "Arc Up",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 135,
+      "name": "S Curve 2",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 136,
+      "name": "Spring",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 137,
+      "name": "Bounce Left",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 138,
+      "name": "Bounce Right",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 139,
+      "name": "Sine Wave",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 140,
+      "name": "Turn Down",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 141,
+      "name": "Curvy Left",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 142,
+      "name": "Curvy Right",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 143,
+      "name": "Spiral Right",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 144,
+      "name": "Turn Up",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 145,
+      "name": "Decaying Wave",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 146,
+      "name": "Diagonal Down Right",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 147,
+      "name": "Stairs Down",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 148,
+      "name": "Up",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 149,
+      "name": "Diagonal Up Right",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 150,
+      "name": "Down",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 151,
+      "name": "Turn Down Right",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 152,
+      "name": "Zigzag",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 153,
+      "name": "Funnel",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 154,
+      "name": "Heartbeat",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 155,
+      "name": "Turn Up Right",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 156,
+      "name": "Left",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 157,
+      "name": "Right",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 158,
+      "name": "Wave",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 160,
+      "name": "Bean",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 161,
+      "name": "Curved X",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 162,
+      "name": "Neutron",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 163,
+      "name": "Peanut",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 164,
+      "name": "Curved Square",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 165,
+      "name": "Figure 8 Four",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 166,
+      "name": "Plus",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 167,
+      "name": "Pointy Star",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 168,
+      "name": "Curvy Star",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 169,
+      "name": "Inverted Square",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 170,
+      "name": "Swoosh",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 171,
+      "name": "Vertical Figure 8",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 172,
+      "name": "Horizontal Figure 8",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 173,
+      "name": "Inverted Triangle",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    },
+    {
+      "index": 174,
+      "name": "Loop de Loop",
+      "category": "motion",
+      "authoredPreset": "0",
+      "parsedEffect": "motion",
+      "parsedType": "motion",
+      "renderable": true,
+      "status": "RENDERABLE"
+    }
+  ]
+}

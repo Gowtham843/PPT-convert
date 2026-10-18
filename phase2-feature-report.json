@@ -1,0 +1,897 @@
+{
+  "phase": 2,
+  "generatedAt": "2026-08-20T14:18:16.015Z",
+  "decks": [
+    {
+      "name": "01-static-complex",
+      "ok": true,
+      "report": {
+        "phase": 2,
+        "generatedAt": "2026-08-20T14:17:57.059Z",
+        "glimpseVersion": "5.3.0",
+        "summary": {
+          "staticRendering": "PASS",
+          "text": "PASS",
+          "fonts": "PARTIAL",
+          "images": "PASS",
+          "shapes": "PASS",
+          "tables": "N/A",
+          "charts": "N/A",
+          "smartArt": "N/A",
+          "video": "N/A",
+          "audio": "N/A",
+          "appear": "N/A",
+          "fade": "N/A",
+          "flyIn": "N/A",
+          "flyOut": "N/A",
+          "zoom": "N/A",
+          "spin": "N/A",
+          "motion": "N/A",
+          "fadeTransition": "N/A",
+          "pushTransition": "N/A",
+          "wipeTransition": "N/A",
+          "otherTransitions": "N/A",
+          "clickTriggers": "N/A",
+          "animationSequencing": "N/A"
+        },
+        "fidelity": {
+          "staticVisualFidelity": 90,
+          "mediaFidelity": 40,
+          "animationFidelity": 25,
+          "transitionFidelity": 38,
+          "fontFidelity": 55,
+          "overall": 50,
+          "methodology": "Rubric: PASS≈90, PARTIAL≈55, FAIL≈15 per category; overall is mean of five categories. Not iSpring-calibrated.",
+          "estimatedISpringParity": 45,
+          "estimatedISpringNote": "Capped conservatively without side-by-side iSpring browser test. Real parity likely lower for animations/transitions."
+        },
+        "performance": {
+          "inputSizeBytes": 28913,
+          "svgGenerationMs": 2394,
+          "pngFallbackMs": null,
+          "totalMs": 2469,
+          "slideCount": 1,
+          "svgSlideCount": 1,
+          "pngFallbackSlideCount": 0,
+          "outputSizeBytes": 26363
+        },
+        "slideReports": [
+          {
+            "slide": 1,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 4
+          }
+        ],
+        "blockers": [
+          "pptx-glimpse does not expose spid in SVG — mapping via editor session + aria-label index",
+          "PowerPoint presetID coverage incomplete — many effects map to CSS approximations",
+          "Chart OOXML → static SVG is basic; complex charts need PNG or commercial renderer",
+          "SmartArt requires PNG fallback — no open-source SmartArt → SVG path verified",
+          "Font theme resolved but embedded fonts not shipped — browser substitution",
+          "No iSpring reference deck provided for parity verification"
+        ],
+        "notes": [
+          "PARTIAL = structurally implemented; verify in browser before claiming PASS",
+          "Fidelity scores are rubric-based estimates, not automatic XML detection"
+        ]
+      }
+    },
+    {
+      "name": "02-animation",
+      "ok": true,
+      "report": {
+        "phase": 2,
+        "generatedAt": "2026-08-20T14:17:59.595Z",
+        "glimpseVersion": "5.3.0",
+        "summary": {
+          "staticRendering": "PASS",
+          "text": "PASS",
+          "fonts": "PARTIAL",
+          "images": "PASS",
+          "shapes": "PASS",
+          "tables": "N/A",
+          "charts": "N/A",
+          "smartArt": "N/A",
+          "video": "N/A",
+          "audio": "N/A",
+          "appear": "N/A",
+          "fade": "PARTIAL",
+          "flyIn": "N/A",
+          "flyOut": "N/A",
+          "zoom": "N/A",
+          "spin": "N/A",
+          "motion": "N/A",
+          "fadeTransition": "N/A",
+          "pushTransition": "N/A",
+          "wipeTransition": "N/A",
+          "otherTransitions": "N/A",
+          "clickTriggers": "PARTIAL",
+          "animationSequencing": "PARTIAL"
+        },
+        "fidelity": {
+          "staticVisualFidelity": 90,
+          "mediaFidelity": 40,
+          "animationFidelity": 49,
+          "transitionFidelity": 38,
+          "fontFidelity": 55,
+          "overall": 54,
+          "methodology": "Rubric: PASS≈90, PARTIAL≈55, FAIL≈15 per category; overall is mean of five categories. Not iSpring-calibrated.",
+          "estimatedISpringParity": 45,
+          "estimatedISpringNote": "Capped conservatively without side-by-side iSpring browser test. Real parity likely lower for animations/transitions."
+        },
+        "performance": {
+          "inputSizeBytes": 28728,
+          "svgGenerationMs": 2352,
+          "pngFallbackMs": null,
+          "totalMs": 2420,
+          "slideCount": 1,
+          "svgSlideCount": 1,
+          "pngFallbackSlideCount": 0,
+          "outputSizeBytes": 25491
+        },
+        "slideReports": [
+          {
+            "slide": 1,
+            "renderer": "svg",
+            "timelineSteps": 1,
+            "clickSteps": 1,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 4
+          }
+        ],
+        "blockers": [
+          "pptx-glimpse does not expose spid in SVG — mapping via editor session + aria-label index",
+          "PowerPoint presetID coverage incomplete — many effects map to CSS approximations",
+          "Chart OOXML → static SVG is basic; complex charts need PNG or commercial renderer",
+          "SmartArt requires PNG fallback — no open-source SmartArt → SVG path verified",
+          "Font theme resolved but embedded fonts not shipped — browser substitution",
+          "No iSpring reference deck provided for parity verification"
+        ],
+        "notes": [
+          "PARTIAL = structurally implemented; verify in browser before claiming PASS",
+          "Fidelity scores are rubric-based estimates, not automatic XML detection"
+        ]
+      }
+    },
+    {
+      "name": "03-media",
+      "ok": true,
+      "report": {
+        "phase": 2,
+        "generatedAt": "2026-08-20T14:18:01.992Z",
+        "glimpseVersion": "5.3.0",
+        "summary": {
+          "staticRendering": "PASS",
+          "text": "PASS",
+          "fonts": "PARTIAL",
+          "images": "PASS",
+          "shapes": "PASS",
+          "tables": "N/A",
+          "charts": "N/A",
+          "smartArt": "N/A",
+          "video": "PARTIAL",
+          "audio": "PARTIAL",
+          "appear": "N/A",
+          "fade": "N/A",
+          "flyIn": "N/A",
+          "flyOut": "N/A",
+          "zoom": "N/A",
+          "spin": "N/A",
+          "motion": "N/A",
+          "fadeTransition": "N/A",
+          "pushTransition": "N/A",
+          "wipeTransition": "N/A",
+          "otherTransitions": "N/A",
+          "clickTriggers": "N/A",
+          "animationSequencing": "N/A"
+        },
+        "fidelity": {
+          "staticVisualFidelity": 90,
+          "mediaFidelity": 55,
+          "animationFidelity": 25,
+          "transitionFidelity": 38,
+          "fontFidelity": 55,
+          "overall": 53,
+          "methodology": "Rubric: PASS≈90, PARTIAL≈55, FAIL≈15 per category; overall is mean of five categories. Not iSpring-calibrated.",
+          "estimatedISpringParity": 45,
+          "estimatedISpringNote": "Capped conservatively without side-by-side iSpring browser test. Real parity likely lower for animations/transitions."
+        },
+        "performance": {
+          "inputSizeBytes": 64519,
+          "svgGenerationMs": 2206,
+          "pngFallbackMs": null,
+          "totalMs": 2281,
+          "slideCount": 2,
+          "svgSlideCount": 2,
+          "pngFallbackSlideCount": 0,
+          "outputSizeBytes": 155225
+        },
+        "slideReports": [
+          {
+            "slide": 1,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 2,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          }
+        ],
+        "blockers": [
+          "pptx-glimpse does not expose spid in SVG — mapping via editor session + aria-label index",
+          "PowerPoint presetID coverage incomplete — many effects map to CSS approximations",
+          "Chart OOXML → static SVG is basic; complex charts need PNG or commercial renderer",
+          "SmartArt requires PNG fallback — no open-source SmartArt → SVG path verified",
+          "Font theme resolved but embedded fonts not shipped — browser substitution",
+          "No iSpring reference deck provided for parity verification"
+        ],
+        "notes": [
+          "PARTIAL = structurally implemented; verify in browser before claiming PASS",
+          "Fidelity scores are rubric-based estimates, not automatic XML detection"
+        ]
+      }
+    },
+    {
+      "name": "04-transitions",
+      "ok": true,
+      "report": {
+        "phase": 2,
+        "generatedAt": "2026-08-20T14:18:04.406Z",
+        "glimpseVersion": "5.3.0",
+        "summary": {
+          "staticRendering": "PASS",
+          "text": "PASS",
+          "fonts": "PARTIAL",
+          "images": "PASS",
+          "shapes": "PASS",
+          "tables": "N/A",
+          "charts": "N/A",
+          "smartArt": "N/A",
+          "video": "N/A",
+          "audio": "N/A",
+          "appear": "N/A",
+          "fade": "N/A",
+          "flyIn": "N/A",
+          "flyOut": "N/A",
+          "zoom": "N/A",
+          "spin": "N/A",
+          "motion": "N/A",
+          "fadeTransition": "PARTIAL",
+          "pushTransition": "PARTIAL",
+          "wipeTransition": "PARTIAL",
+          "otherTransitions": "PARTIAL",
+          "clickTriggers": "N/A",
+          "animationSequencing": "N/A"
+        },
+        "fidelity": {
+          "staticVisualFidelity": 90,
+          "mediaFidelity": 40,
+          "animationFidelity": 25,
+          "transitionFidelity": 55,
+          "fontFidelity": 55,
+          "overall": 53,
+          "methodology": "Rubric: PASS≈90, PARTIAL≈55, FAIL≈15 per category; overall is mean of five categories. Not iSpring-calibrated.",
+          "estimatedISpringParity": 45,
+          "estimatedISpringNote": "Capped conservatively without side-by-side iSpring browser test. Real parity likely lower for animations/transitions."
+        },
+        "performance": {
+          "inputSizeBytes": 34665,
+          "svgGenerationMs": 2216,
+          "pngFallbackMs": null,
+          "totalMs": 2292,
+          "slideCount": 8,
+          "svgSlideCount": 8,
+          "pngFallbackSlideCount": 0,
+          "outputSizeBytes": 78693
+        },
+        "slideReports": [
+          {
+            "slide": 1,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "fade",
+            "objectMapCount": 1
+          },
+          {
+            "slide": 2,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "push",
+            "objectMapCount": 1
+          },
+          {
+            "slide": 3,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "wipe",
+            "objectMapCount": 1
+          },
+          {
+            "slide": 4,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "split",
+            "objectMapCount": 1
+          },
+          {
+            "slide": 5,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "cover",
+            "objectMapCount": 1
+          },
+          {
+            "slide": 6,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "dissolve",
+            "objectMapCount": 1
+          },
+          {
+            "slide": 7,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "checker",
+            "objectMapCount": 1
+          },
+          {
+            "slide": 8,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "strips",
+            "objectMapCount": 1
+          }
+        ],
+        "blockers": [
+          "pptx-glimpse does not expose spid in SVG — mapping via editor session + aria-label index",
+          "PowerPoint presetID coverage incomplete — many effects map to CSS approximations",
+          "Chart OOXML → static SVG is basic; complex charts need PNG or commercial renderer",
+          "SmartArt requires PNG fallback — no open-source SmartArt → SVG path verified",
+          "Font theme resolved but embedded fonts not shipped — browser substitution",
+          "No iSpring reference deck provided for parity verification"
+        ],
+        "notes": [
+          "PARTIAL = structurally implemented; verify in browser before claiming PASS",
+          "Fidelity scores are rubric-based estimates, not automatic XML detection"
+        ]
+      }
+    },
+    {
+      "name": "05-tables-charts",
+      "ok": true,
+      "report": {
+        "phase": 2,
+        "generatedAt": "2026-08-20T14:18:08.687Z",
+        "glimpseVersion": "5.3.0",
+        "summary": {
+          "staticRendering": "PASS",
+          "text": "PASS",
+          "fonts": "PARTIAL",
+          "images": "PASS",
+          "shapes": "PASS",
+          "tables": "PARTIAL",
+          "charts": "N/A",
+          "smartArt": "N/A",
+          "video": "N/A",
+          "audio": "N/A",
+          "appear": "N/A",
+          "fade": "N/A",
+          "flyIn": "N/A",
+          "flyOut": "N/A",
+          "zoom": "N/A",
+          "spin": "N/A",
+          "motion": "N/A",
+          "fadeTransition": "N/A",
+          "pushTransition": "N/A",
+          "wipeTransition": "N/A",
+          "otherTransitions": "N/A",
+          "clickTriggers": "N/A",
+          "animationSequencing": "N/A"
+        },
+        "fidelity": {
+          "staticVisualFidelity": 90,
+          "mediaFidelity": 40,
+          "animationFidelity": 25,
+          "transitionFidelity": 38,
+          "fontFidelity": 55,
+          "overall": 50,
+          "methodology": "Rubric: PASS≈90, PARTIAL≈55, FAIL≈15 per category; overall is mean of five categories. Not iSpring-calibrated.",
+          "estimatedISpringParity": 45,
+          "estimatedISpringNote": "Capped conservatively without side-by-side iSpring browser test. Real parity likely lower for animations/transitions."
+        },
+        "performance": {
+          "inputSizeBytes": 35745,
+          "svgGenerationMs": 2231,
+          "pngFallbackMs": 1863,
+          "totalMs": 4167,
+          "slideCount": 2,
+          "svgSlideCount": 1,
+          "pngFallbackSlideCount": 1,
+          "outputSizeBytes": 109900
+        },
+        "slideReports": [
+          {
+            "slide": 1,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 1,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 2,
+            "renderer": "png-fallback",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          }
+        ],
+        "blockers": [
+          "pptx-glimpse does not expose spid in SVG — mapping via editor session + aria-label index",
+          "PowerPoint presetID coverage incomplete — many effects map to CSS approximations",
+          "Chart OOXML → static SVG is basic; complex charts need PNG or commercial renderer",
+          "SmartArt requires PNG fallback — no open-source SmartArt → SVG path verified",
+          "Font theme resolved but embedded fonts not shipped — browser substitution",
+          "No iSpring reference deck provided for parity verification"
+        ],
+        "notes": [
+          "PARTIAL = structurally implemented; verify in browser before claiming PASS",
+          "Fidelity scores are rubric-based estimates, not automatic XML detection"
+        ]
+      }
+    },
+    {
+      "name": "06-fonts-themes",
+      "ok": true,
+      "report": {
+        "phase": 2,
+        "generatedAt": "2026-08-20T14:18:11.031Z",
+        "glimpseVersion": "5.3.0",
+        "summary": {
+          "staticRendering": "PASS",
+          "text": "PASS",
+          "fonts": "PARTIAL",
+          "images": "PASS",
+          "shapes": "PASS",
+          "tables": "N/A",
+          "charts": "N/A",
+          "smartArt": "N/A",
+          "video": "N/A",
+          "audio": "N/A",
+          "appear": "N/A",
+          "fade": "N/A",
+          "flyIn": "N/A",
+          "flyOut": "N/A",
+          "zoom": "N/A",
+          "spin": "N/A",
+          "motion": "N/A",
+          "fadeTransition": "N/A",
+          "pushTransition": "N/A",
+          "wipeTransition": "N/A",
+          "otherTransitions": "N/A",
+          "clickTriggers": "N/A",
+          "animationSequencing": "N/A"
+        },
+        "fidelity": {
+          "staticVisualFidelity": 90,
+          "mediaFidelity": 40,
+          "animationFidelity": 25,
+          "transitionFidelity": 38,
+          "fontFidelity": 55,
+          "overall": 50,
+          "methodology": "Rubric: PASS≈90, PARTIAL≈55, FAIL≈15 per category; overall is mean of five categories. Not iSpring-calibrated.",
+          "estimatedISpringParity": 45,
+          "estimatedISpringNote": "Capped conservatively without side-by-side iSpring browser test. Real parity likely lower for animations/transitions."
+        },
+        "performance": {
+          "inputSizeBytes": 28370,
+          "svgGenerationMs": 2165,
+          "pngFallbackMs": null,
+          "totalMs": 2234,
+          "slideCount": 1,
+          "svgSlideCount": 1,
+          "pngFallbackSlideCount": 0,
+          "outputSizeBytes": 21585
+        },
+        "slideReports": [
+          {
+            "slide": 1,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 1
+          }
+        ],
+        "blockers": [
+          "pptx-glimpse does not expose spid in SVG — mapping via editor session + aria-label index",
+          "PowerPoint presetID coverage incomplete — many effects map to CSS approximations",
+          "Chart OOXML → static SVG is basic; complex charts need PNG or commercial renderer",
+          "SmartArt requires PNG fallback — no open-source SmartArt → SVG path verified",
+          "Font theme resolved but embedded fonts not shipped — browser substitution",
+          "No iSpring reference deck provided for parity verification"
+        ],
+        "notes": [
+          "PARTIAL = structurally implemented; verify in browser before claiming PASS",
+          "Fidelity scores are rubric-based estimates, not automatic XML detection"
+        ]
+      }
+    },
+    {
+      "name": "07-combined",
+      "ok": true,
+      "report": {
+        "phase": 2,
+        "generatedAt": "2026-08-20T14:18:13.488Z",
+        "glimpseVersion": "5.3.0",
+        "summary": {
+          "staticRendering": "PASS",
+          "text": "PASS",
+          "fonts": "PARTIAL",
+          "images": "PASS",
+          "shapes": "PASS",
+          "tables": "N/A",
+          "charts": "N/A",
+          "smartArt": "N/A",
+          "video": "PARTIAL",
+          "audio": "PARTIAL",
+          "appear": "N/A",
+          "fade": "N/A",
+          "flyIn": "PARTIAL",
+          "flyOut": "N/A",
+          "zoom": "N/A",
+          "spin": "N/A",
+          "motion": "N/A",
+          "fadeTransition": "PARTIAL",
+          "pushTransition": "N/A",
+          "wipeTransition": "N/A",
+          "otherTransitions": "N/A",
+          "clickTriggers": "PARTIAL",
+          "animationSequencing": "PARTIAL"
+        },
+        "fidelity": {
+          "staticVisualFidelity": 90,
+          "mediaFidelity": 55,
+          "animationFidelity": 43,
+          "transitionFidelity": 41,
+          "fontFidelity": 55,
+          "overall": 57,
+          "methodology": "Rubric: PASS≈90, PARTIAL≈55, FAIL≈15 per category; overall is mean of five categories. Not iSpring-calibrated.",
+          "estimatedISpringParity": 45,
+          "estimatedISpringNote": "Capped conservatively without side-by-side iSpring browser test. Real parity likely lower for animations/transitions."
+        },
+        "performance": {
+          "inputSizeBytes": 66083,
+          "svgGenerationMs": 2264,
+          "pngFallbackMs": null,
+          "totalMs": 2345,
+          "slideCount": 3,
+          "svgSlideCount": 3,
+          "pngFallbackSlideCount": 0,
+          "outputSizeBytes": 190068
+        },
+        "slideReports": [
+          {
+            "slide": 1,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 3
+          },
+          {
+            "slide": 2,
+            "renderer": "svg",
+            "timelineSteps": 1,
+            "clickSteps": 1,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 3,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "fade",
+            "objectMapCount": 2
+          }
+        ],
+        "blockers": [
+          "pptx-glimpse does not expose spid in SVG — mapping via editor session + aria-label index",
+          "PowerPoint presetID coverage incomplete — many effects map to CSS approximations",
+          "Chart OOXML → static SVG is basic; complex charts need PNG or commercial renderer",
+          "SmartArt requires PNG fallback — no open-source SmartArt → SVG path verified",
+          "Font theme resolved but embedded fonts not shipped — browser substitution",
+          "No iSpring reference deck provided for parity verification"
+        ],
+        "notes": [
+          "PARTIAL = structurally implemented; verify in browser before claiming PASS",
+          "Fidelity scores are rubric-based estimates, not automatic XML detection"
+        ]
+      }
+    },
+    {
+      "name": "Improved_Internship_Presentation",
+      "ok": true,
+      "report": {
+        "phase": 2,
+        "generatedAt": "2026-08-20T14:18:15.962Z",
+        "glimpseVersion": "5.3.0",
+        "summary": {
+          "staticRendering": "PASS",
+          "text": "PASS",
+          "fonts": "PARTIAL",
+          "images": "PASS",
+          "shapes": "PASS",
+          "tables": "N/A",
+          "charts": "N/A",
+          "smartArt": "N/A",
+          "video": "N/A",
+          "audio": "N/A",
+          "appear": "N/A",
+          "fade": "N/A",
+          "flyIn": "N/A",
+          "flyOut": "N/A",
+          "zoom": "N/A",
+          "spin": "N/A",
+          "motion": "N/A",
+          "fadeTransition": "N/A",
+          "pushTransition": "N/A",
+          "wipeTransition": "N/A",
+          "otherTransitions": "N/A",
+          "clickTriggers": "N/A",
+          "animationSequencing": "N/A"
+        },
+        "fidelity": {
+          "staticVisualFidelity": 90,
+          "mediaFidelity": 40,
+          "animationFidelity": 25,
+          "transitionFidelity": 38,
+          "fontFidelity": 55,
+          "overall": 50,
+          "methodology": "Rubric: PASS≈90, PARTIAL≈55, FAIL≈15 per category; overall is mean of five categories. Not iSpring-calibrated.",
+          "estimatedISpringParity": 45,
+          "estimatedISpringNote": "Capped conservatively without side-by-side iSpring browser test. Real parity likely lower for animations/transitions."
+        },
+        "performance": {
+          "inputSizeBytes": 46427,
+          "svgGenerationMs": 2263,
+          "pngFallbackMs": null,
+          "totalMs": 2349,
+          "slideCount": 13,
+          "svgSlideCount": 13,
+          "pngFallbackSlideCount": 0,
+          "outputSizeBytes": 2332093
+        },
+        "slideReports": [
+          {
+            "slide": 1,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 2,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 3,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 4,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 5,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 6,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 7,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 8,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 9,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 10,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 11,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 12,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          },
+          {
+            "slide": 13,
+            "renderer": "svg",
+            "timelineSteps": 0,
+            "clickSteps": 0,
+            "tables": 0,
+            "charts": 0,
+            "transition": "none",
+            "objectMapCount": 2
+          }
+        ],
+        "blockers": [
+          "pptx-glimpse does not expose spid in SVG — mapping via editor session + aria-label index",
+          "PowerPoint presetID coverage incomplete — many effects map to CSS approximations",
+          "Chart OOXML → static SVG is basic; complex charts need PNG or commercial renderer",
+          "SmartArt requires PNG fallback — no open-source SmartArt → SVG path verified",
+          "Font theme resolved but embedded fonts not shipped — browser substitution",
+          "No iSpring reference deck provided for parity verification"
+        ],
+        "notes": [
+          "PARTIAL = structurally implemented; verify in browser before claiming PASS",
+          "Fidelity scores are rubric-based estimates, not automatic XML detection"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "staticRendering": "PASS",
+    "text": "PASS",
+    "fonts": "PARTIAL",
+    "images": "PASS",
+    "shapes": "PASS",
+    "tables": "PARTIAL",
+    "charts": "N/A",
+    "smartArt": "N/A",
+    "video": "PARTIAL",
+    "audio": "PARTIAL",
+    "appear": "N/A",
+    "fade": "PARTIAL",
+    "flyIn": "PARTIAL",
+    "flyOut": "N/A",
+    "zoom": "N/A",
+    "spin": "N/A",
+    "motion": "N/A",
+    "fadeTransition": "PARTIAL",
+    "pushTransition": "PARTIAL",
+    "wipeTransition": "PARTIAL",
+    "otherTransitions": "PARTIAL",
+    "clickTriggers": "PARTIAL",
+    "animationSequencing": "PARTIAL"
+  },
+  "fidelity": {
+    "overall": 52,
+    "estimatedISpringParity": 45
+  }
+}

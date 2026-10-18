@@ -1,0 +1,33 @@
+{
+  "name": "ppt-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "parse": "node parse.js",
+    "render": "node render.js",
+    "convert:png": "node convert.js",
+    "test:phase2": "node scripts/run_phase2_suite.js",
+    "test:animation": "node scripts/run_animation_suite.js",
+    "test:animation:browser": "node scripts/browser-verify-animations.js",
+    "fixtures:animation": "python3 scripts/create_animation_fixtures.py",
+    "fixtures:ispring": "python3 scripts/create_ispring_stress_deck.py",
+    "fixtures:catalog": "python3 scripts/create_ispring_effect_catalog.py",
+    "fixtures:morph": "python3 scripts/create_morph_fixture.py",
+    "audit:catalog": "node scripts/effect_catalog_audit.js",
+    "extract:recorded": "python3 scripts/extract_recorded_animations.py",
+    "debug:animation": "node scripts/debug-animation-pipeline.js test-files/animation/01-fade-click.pptx"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.19.0",
+    "chalk": "^6.0.0",
+    "fs-extra": "^11.4.0",
+    "pptx-glimpse": "^5.3.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.49.1"
+  }
+}

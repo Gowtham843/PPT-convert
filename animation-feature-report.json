@@ -1,0 +1,154 @@
+{
+  "generatedAt": "2026-09-02T10:18:32.205Z",
+  "results": [
+    {
+      "name": "01-fade-click",
+      "report": {
+        "generatedAt": "2026-09-02T10:18:27.767Z",
+        "source": "01-fade-click.pptx",
+        "note": "PASS requires browser-verified behavior; PARTIAL = detected + mapped but not browser-verified in CI",
+        "summary": {
+          "animationDetection": "PASS",
+          "animationObjectMapping": "PASS",
+          "fade": "PARTIAL",
+          "appear": "NOT_PRESENT",
+          "disappear": "NOT_PRESENT",
+          "fly": "NOT_PRESENT",
+          "zoom": "NOT_PRESENT",
+          "spin": "NOT_PRESENT",
+          "motionPath": "NOT_PRESENT",
+          "clickTrigger": "PARTIAL",
+          "withPrevious": "NOT_PRESENT",
+          "afterPrevious": "NOT_PRESENT",
+          "objectClickTrigger": "NOT_PRESENT",
+          "videoClickToPlay": "NOT_PRESENT",
+          "audio": "NOT_PRESENT",
+          "fadeTransition": "NOT_PRESENT",
+          "pushTransition": "NOT_PRESENT",
+          "wipeTransition": "NOT_PRESENT",
+          "morphDetection": "NOT_PRESENT"
+        },
+        "slides": [
+          {
+            "index": 1,
+            "objectCount": 2,
+            "animationCount": 1,
+            "clickGroups": 1,
+            "transition": "none",
+            "morph": {
+              "detected": false,
+              "supported": false,
+              "prototype": false,
+              "reason": null
+            },
+            "mapping": "PASS"
+          }
+        ]
+      }
+    },
+    {
+      "name": "03-fly-in",
+      "report": {
+        "generatedAt": "2026-09-02T10:18:29.940Z",
+        "source": "03-fly-in.pptx",
+        "note": "PASS requires browser-verified behavior; PARTIAL = detected + mapped but not browser-verified in CI",
+        "summary": {
+          "animationDetection": "PASS",
+          "animationObjectMapping": "PASS",
+          "fade": "NOT_PRESENT",
+          "appear": "NOT_PRESENT",
+          "disappear": "NOT_PRESENT",
+          "fly": "PARTIAL",
+          "zoom": "NOT_PRESENT",
+          "spin": "NOT_PRESENT",
+          "motionPath": "NOT_PRESENT",
+          "clickTrigger": "PARTIAL",
+          "withPrevious": "NOT_PRESENT",
+          "afterPrevious": "NOT_PRESENT",
+          "objectClickTrigger": "NOT_PRESENT",
+          "videoClickToPlay": "NOT_PRESENT",
+          "audio": "NOT_PRESENT",
+          "fadeTransition": "NOT_PRESENT",
+          "pushTransition": "NOT_PRESENT",
+          "wipeTransition": "NOT_PRESENT",
+          "morphDetection": "NOT_PRESENT"
+        },
+        "slides": [
+          {
+            "index": 1,
+            "objectCount": 1,
+            "animationCount": 1,
+            "clickGroups": 1,
+            "transition": "none",
+            "morph": {
+              "detected": false,
+              "supported": false,
+              "prototype": false,
+              "reason": null
+            },
+            "mapping": "PASS"
+          }
+        ]
+      }
+    },
+    {
+      "name": "09-transition-fade",
+      "report": {
+        "generatedAt": "2026-09-02T10:18:32.155Z",
+        "source": "09-transition-fade.pptx",
+        "note": "PASS requires browser-verified behavior; PARTIAL = detected + mapped but not browser-verified in CI",
+        "summary": {
+          "animationDetection": "NOT_PRESENT",
+          "animationObjectMapping": "NOT_PRESENT",
+          "fade": "NOT_PRESENT",
+          "appear": "NOT_PRESENT",
+          "disappear": "NOT_PRESENT",
+          "fly": "NOT_PRESENT",
+          "zoom": "NOT_PRESENT",
+          "spin": "NOT_PRESENT",
+          "motionPath": "NOT_PRESENT",
+          "clickTrigger": "NOT_PRESENT",
+          "withPrevious": "NOT_PRESENT",
+          "afterPrevious": "NOT_PRESENT",
+          "objectClickTrigger": "NOT_PRESENT",
+          "videoClickToPlay": "NOT_PRESENT",
+          "audio": "NOT_PRESENT",
+          "fadeTransition": "PARTIAL",
+          "pushTransition": "NOT_PRESENT",
+          "wipeTransition": "NOT_PRESENT",
+          "morphDetection": "NOT_PRESENT"
+        },
+        "slides": [
+          {
+            "index": 1,
+            "objectCount": 1,
+            "animationCount": 0,
+            "clickGroups": 0,
+            "transition": "none",
+            "morph": {
+              "detected": false,
+              "supported": false,
+              "prototype": false,
+              "reason": null
+            },
+            "mapping": "NOT_PRESENT"
+          },
+          {
+            "index": 2,
+            "objectCount": 1,
+            "animationCount": 0,
+            "clickGroups": 0,
+            "transition": "fade",
+            "morph": {
+              "detected": false,
+              "supported": false,
+              "prototype": false,
+              "reason": null
+            },
+            "mapping": "NOT_PRESENT"
+          }
+        ]
+      }
+    }
+  ]
+}

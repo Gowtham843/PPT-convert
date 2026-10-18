@@ -1,0 +1,1623 @@
+{
+  "source": "iSpring Suite animation effects support catalogue",
+  "deck": "/Users/gowtham/Downloads/ppt-converter/test-files/ispring-effect-catalog.pptx",
+  "total": 167,
+  "total_slides": 174,
+  "by_category": {
+    "entr": 40,
+    "emph": 24,
+    "exit": 40,
+    "motion": 63
+  },
+  "navigation": [
+    {
+      "index": 1,
+      "kind": "nav",
+      "type": "cover"
+    },
+    {
+      "index": 2,
+      "kind": "nav",
+      "type": "divider",
+      "category": "entr"
+    },
+    {
+      "index": 43,
+      "kind": "nav",
+      "type": "divider",
+      "category": "emph"
+    },
+    {
+      "index": 68,
+      "kind": "nav",
+      "type": "divider",
+      "category": "exit"
+    },
+    {
+      "index": 109,
+      "kind": "nav",
+      "type": "divider",
+      "category": "motion"
+    },
+    {
+      "index": 128,
+      "kind": "nav",
+      "type": "divider",
+      "category": "motion"
+    },
+    {
+      "index": 159,
+      "kind": "nav",
+      "type": "divider",
+      "category": "motion"
+    }
+  ],
+  "effects": [
+    {
+      "index": 3,
+      "effect_no": 1,
+      "name": "Appear",
+      "category": "entr",
+      "preset": "1",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 4,
+      "effect_no": 2,
+      "name": "Box",
+      "category": "entr",
+      "preset": "4",
+      "subtype": "16",
+      "class": "entr"
+    },
+    {
+      "index": 5,
+      "effect_no": 3,
+      "name": "Circle",
+      "category": "entr",
+      "preset": "6",
+      "subtype": "16",
+      "class": "entr"
+    },
+    {
+      "index": 6,
+      "effect_no": 4,
+      "name": "Diamond",
+      "category": "entr",
+      "preset": "8",
+      "subtype": "16",
+      "class": "entr"
+    },
+    {
+      "index": 7,
+      "effect_no": 5,
+      "name": "Blinds",
+      "category": "entr",
+      "preset": "3",
+      "subtype": "8",
+      "class": "entr"
+    },
+    {
+      "index": 8,
+      "effect_no": 6,
+      "name": "Checkerboard",
+      "category": "entr",
+      "preset": "5",
+      "subtype": "1",
+      "class": "entr"
+    },
+    {
+      "index": 9,
+      "effect_no": 7,
+      "name": "Dissolve In",
+      "category": "entr",
+      "preset": "9",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 10,
+      "effect_no": 8,
+      "name": "Fly In (From Bottom)",
+      "category": "entr",
+      "preset": "2",
+      "subtype": "4",
+      "class": "entr"
+    },
+    {
+      "index": 11,
+      "effect_no": 9,
+      "name": "Peek In (From Bottom)",
+      "category": "entr",
+      "preset": "12",
+      "subtype": "4",
+      "class": "entr"
+    },
+    {
+      "index": 12,
+      "effect_no": 10,
+      "name": "Random Bars",
+      "category": "entr",
+      "preset": "14",
+      "subtype": "1",
+      "class": "entr"
+    },
+    {
+      "index": 13,
+      "effect_no": 11,
+      "name": "Split (Vertical In)",
+      "category": "entr",
+      "preset": "16",
+      "subtype": "26",
+      "class": "entr"
+    },
+    {
+      "index": 14,
+      "effect_no": 12,
+      "name": "Wedge",
+      "category": "entr",
+      "preset": "20",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 15,
+      "effect_no": 13,
+      "name": "Wipe (From Bottom)",
+      "category": "entr",
+      "preset": "22",
+      "subtype": "4",
+      "class": "entr"
+    },
+    {
+      "index": 16,
+      "effect_no": 14,
+      "name": "Plus",
+      "category": "entr",
+      "preset": "13",
+      "subtype": "4",
+      "class": "entr"
+    },
+    {
+      "index": 17,
+      "effect_no": 15,
+      "name": "Strips (Down Left)",
+      "category": "entr",
+      "preset": "18",
+      "subtype": "1",
+      "class": "entr"
+    },
+    {
+      "index": 18,
+      "effect_no": 16,
+      "name": "Wheel (1 Spoke)",
+      "category": "entr",
+      "preset": "21",
+      "subtype": "1",
+      "class": "entr"
+    },
+    {
+      "index": 19,
+      "effect_no": 17,
+      "name": "Expand",
+      "category": "entr",
+      "preset": "50",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 20,
+      "effect_no": 18,
+      "name": "Fade",
+      "category": "entr",
+      "preset": "10",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 21,
+      "effect_no": 19,
+      "name": "Swivel",
+      "category": "entr",
+      "preset": "19",
+      "subtype": "1",
+      "class": "entr"
+    },
+    {
+      "index": 22,
+      "effect_no": 20,
+      "name": "Zoom",
+      "category": "entr",
+      "preset": "23",
+      "subtype": "16",
+      "class": "entr"
+    },
+    {
+      "index": 23,
+      "effect_no": 21,
+      "name": "Basic Zoom (In)",
+      "category": "entr",
+      "preset": "53",
+      "subtype": "16",
+      "class": "entr"
+    },
+    {
+      "index": 24,
+      "effect_no": 22,
+      "name": "Center Revolve",
+      "category": "entr",
+      "preset": "47",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 25,
+      "effect_no": 23,
+      "name": "Grow & Turn",
+      "category": "entr",
+      "preset": "37",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 26,
+      "effect_no": 24,
+      "name": "Spinner",
+      "category": "entr",
+      "preset": "51",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 27,
+      "effect_no": 25,
+      "name": "Float Down (In)",
+      "category": "entr",
+      "preset": "52",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 28,
+      "effect_no": 26,
+      "name": "Float Up (In)",
+      "category": "entr",
+      "preset": "53",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 29,
+      "effect_no": 27,
+      "name": "Rise Up",
+      "category": "entr",
+      "preset": "40",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 30,
+      "effect_no": 28,
+      "name": "Compress",
+      "category": "entr",
+      "preset": "56",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 31,
+      "effect_no": 29,
+      "name": "Stretch",
+      "category": "entr",
+      "preset": "17",
+      "subtype": "1",
+      "class": "entr"
+    },
+    {
+      "index": 32,
+      "effect_no": 30,
+      "name": "Basic Swivel",
+      "category": "entr",
+      "preset": "54",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 33,
+      "effect_no": 31,
+      "name": "Bounce",
+      "category": "entr",
+      "preset": "33",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 34,
+      "effect_no": 32,
+      "name": "Curve Up",
+      "category": "entr",
+      "preset": "34",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 35,
+      "effect_no": 33,
+      "name": "Flip",
+      "category": "entr",
+      "preset": "35",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 36,
+      "effect_no": 34,
+      "name": "Pinwheel",
+      "category": "entr",
+      "preset": "39",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 37,
+      "effect_no": 35,
+      "name": "Whip",
+      "category": "entr",
+      "preset": "45",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 38,
+      "effect_no": 36,
+      "name": "Boomerang",
+      "category": "entr",
+      "preset": "32",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 39,
+      "effect_no": 37,
+      "name": "Credits",
+      "category": "entr",
+      "preset": "34",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 40,
+      "effect_no": 38,
+      "name": "Drop",
+      "category": "entr",
+      "preset": "36",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 41,
+      "effect_no": 39,
+      "name": "Float",
+      "category": "entr",
+      "preset": "30",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 42,
+      "effect_no": 40,
+      "name": "Spiral In",
+      "category": "entr",
+      "preset": "15",
+      "subtype": null,
+      "class": "entr"
+    },
+    {
+      "index": 44,
+      "effect_no": 41,
+      "name": "Fill Color (\u2192 red)",
+      "category": "emph",
+      "preset": "1",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 45,
+      "effect_no": 42,
+      "name": "Font Color (\u2192 red)",
+      "category": "emph",
+      "preset": "2",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 46,
+      "effect_no": 43,
+      "name": "Grow/Shrink (\u2192 150%)",
+      "category": "emph",
+      "preset": "6",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 47,
+      "effect_no": 44,
+      "name": "Transparency (\u2192 50%)",
+      "category": "emph",
+      "preset": "9",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 48,
+      "effect_no": 45,
+      "name": "Spin (360\u00b0)",
+      "category": "emph",
+      "preset": "8",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 49,
+      "effect_no": 46,
+      "name": "Line Color (\u2192 red)",
+      "category": "emph",
+      "preset": "7",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 50,
+      "effect_no": 47,
+      "name": "Bold Flash",
+      "category": "emph",
+      "preset": "10",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 51,
+      "effect_no": 48,
+      "name": "Complementary Color",
+      "category": "emph",
+      "preset": "14",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 52,
+      "effect_no": 49,
+      "name": "Complementary Color 2",
+      "category": "emph",
+      "preset": "15",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 53,
+      "effect_no": 50,
+      "name": "Brush Color",
+      "category": "emph",
+      "preset": "12",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 54,
+      "effect_no": 51,
+      "name": "Contrasting Color",
+      "category": "emph",
+      "preset": "16",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 55,
+      "effect_no": 52,
+      "name": "Darken",
+      "category": "emph",
+      "preset": "17",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 56,
+      "effect_no": 53,
+      "name": "Desaturate",
+      "category": "emph",
+      "preset": "18",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 57,
+      "effect_no": 54,
+      "name": "Lighten",
+      "category": "emph",
+      "preset": "22",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 58,
+      "effect_no": 55,
+      "name": "Object Color",
+      "category": "emph",
+      "preset": "25",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 59,
+      "effect_no": 56,
+      "name": "Pulse",
+      "category": "emph",
+      "preset": "35",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 60,
+      "effect_no": 57,
+      "name": "Underline",
+      "category": "emph",
+      "preset": "17",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 61,
+      "effect_no": 58,
+      "name": "Color Pulse",
+      "category": "emph",
+      "preset": "20",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 62,
+      "effect_no": 59,
+      "name": "Grow With Color",
+      "category": "emph",
+      "preset": "21",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 63,
+      "effect_no": 60,
+      "name": "Shimmer",
+      "category": "emph",
+      "preset": "38",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 64,
+      "effect_no": 61,
+      "name": "Teeter",
+      "category": "emph",
+      "preset": "32",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 65,
+      "effect_no": 62,
+      "name": "Blink",
+      "category": "emph",
+      "preset": "26",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 66,
+      "effect_no": 63,
+      "name": "Bold Reveal",
+      "category": "emph",
+      "preset": "11",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 67,
+      "effect_no": 64,
+      "name": "Wave",
+      "category": "emph",
+      "preset": "25",
+      "subtype": null,
+      "class": "emph"
+    },
+    {
+      "index": 69,
+      "effect_no": 65,
+      "name": "Blinds",
+      "category": "exit",
+      "preset": "3",
+      "subtype": "8",
+      "class": "exit"
+    },
+    {
+      "index": 70,
+      "effect_no": 66,
+      "name": "Checkerboard",
+      "category": "exit",
+      "preset": "5",
+      "subtype": "1",
+      "class": "exit"
+    },
+    {
+      "index": 71,
+      "effect_no": 67,
+      "name": "Diamond",
+      "category": "exit",
+      "preset": "8",
+      "subtype": "16",
+      "class": "exit"
+    },
+    {
+      "index": 72,
+      "effect_no": 68,
+      "name": "Dissolve Out",
+      "category": "exit",
+      "preset": "9",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 73,
+      "effect_no": 69,
+      "name": "Peek Out (To Bottom)",
+      "category": "exit",
+      "preset": "12",
+      "subtype": "4",
+      "class": "exit"
+    },
+    {
+      "index": 74,
+      "effect_no": 70,
+      "name": "Random Bars",
+      "category": "exit",
+      "preset": "14",
+      "subtype": "1",
+      "class": "exit"
+    },
+    {
+      "index": 75,
+      "effect_no": 71,
+      "name": "Strips (Up Right)",
+      "category": "exit",
+      "preset": "18",
+      "subtype": "2",
+      "class": "exit"
+    },
+    {
+      "index": 76,
+      "effect_no": 72,
+      "name": "Wheel (1 Spoke)",
+      "category": "exit",
+      "preset": "21",
+      "subtype": "1",
+      "class": "exit"
+    },
+    {
+      "index": 77,
+      "effect_no": 73,
+      "name": "Box",
+      "category": "exit",
+      "preset": "4",
+      "subtype": "16",
+      "class": "exit"
+    },
+    {
+      "index": 78,
+      "effect_no": 74,
+      "name": "Circle",
+      "category": "exit",
+      "preset": "6",
+      "subtype": "16",
+      "class": "exit"
+    },
+    {
+      "index": 79,
+      "effect_no": 75,
+      "name": "Disappear",
+      "category": "exit",
+      "preset": "1",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 80,
+      "effect_no": 76,
+      "name": "Fly Out (To Right)",
+      "category": "exit",
+      "preset": "2",
+      "subtype": "2",
+      "class": "exit"
+    },
+    {
+      "index": 81,
+      "effect_no": 77,
+      "name": "Plus",
+      "category": "exit",
+      "preset": "13",
+      "subtype": "4",
+      "class": "exit"
+    },
+    {
+      "index": 82,
+      "effect_no": 78,
+      "name": "Split (Vertical Out)",
+      "category": "exit",
+      "preset": "16",
+      "subtype": "28",
+      "class": "exit"
+    },
+    {
+      "index": 83,
+      "effect_no": 79,
+      "name": "Wedge",
+      "category": "exit",
+      "preset": "20",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 84,
+      "effect_no": 80,
+      "name": "Wipe (To Bottom)",
+      "category": "exit",
+      "preset": "22",
+      "subtype": "4",
+      "class": "exit"
+    },
+    {
+      "index": 85,
+      "effect_no": 81,
+      "name": "Contract",
+      "category": "exit",
+      "preset": "17",
+      "subtype": "16",
+      "class": "exit"
+    },
+    {
+      "index": 86,
+      "effect_no": 82,
+      "name": "Fade",
+      "category": "exit",
+      "preset": "10",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 87,
+      "effect_no": 83,
+      "name": "Swivel",
+      "category": "exit",
+      "preset": "19",
+      "subtype": "1",
+      "class": "exit"
+    },
+    {
+      "index": 88,
+      "effect_no": 84,
+      "name": "Zoom",
+      "category": "exit",
+      "preset": "23",
+      "subtype": "16",
+      "class": "exit"
+    },
+    {
+      "index": 89,
+      "effect_no": 85,
+      "name": "Basic Zoom (Out)",
+      "category": "exit",
+      "preset": "53",
+      "subtype": "16",
+      "class": "exit"
+    },
+    {
+      "index": 90,
+      "effect_no": 86,
+      "name": "Center Revolve",
+      "category": "exit",
+      "preset": "47",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 91,
+      "effect_no": 87,
+      "name": "Float Down (Out)",
+      "category": "exit",
+      "preset": "52",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 92,
+      "effect_no": 88,
+      "name": "Float Up (Out)",
+      "category": "exit",
+      "preset": "53",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 93,
+      "effect_no": 89,
+      "name": "Shrink & Turn",
+      "category": "exit",
+      "preset": "44",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 94,
+      "effect_no": 90,
+      "name": "Spinner",
+      "category": "exit",
+      "preset": "51",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 95,
+      "effect_no": 91,
+      "name": "Sink Down",
+      "category": "exit",
+      "preset": "43",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 96,
+      "effect_no": 92,
+      "name": "Collapse",
+      "category": "exit",
+      "preset": "55",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 97,
+      "effect_no": 93,
+      "name": "Stretchy",
+      "category": "exit",
+      "preset": "56",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 98,
+      "effect_no": 94,
+      "name": "Basic Swivel",
+      "category": "exit",
+      "preset": "54",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 99,
+      "effect_no": 95,
+      "name": "Bounce",
+      "category": "exit",
+      "preset": "33",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 100,
+      "effect_no": 96,
+      "name": "Curve Down",
+      "category": "exit",
+      "preset": "34",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 101,
+      "effect_no": 97,
+      "name": "Flip",
+      "category": "exit",
+      "preset": "35",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 102,
+      "effect_no": 98,
+      "name": "Pinwheel",
+      "category": "exit",
+      "preset": "39",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 103,
+      "effect_no": 99,
+      "name": "Whip",
+      "category": "exit",
+      "preset": "45",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 104,
+      "effect_no": 100,
+      "name": "Boomerang",
+      "category": "exit",
+      "preset": "32",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 105,
+      "effect_no": 101,
+      "name": "Credits",
+      "category": "exit",
+      "preset": "34",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 106,
+      "effect_no": 102,
+      "name": "Drop",
+      "category": "exit",
+      "preset": "36",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 107,
+      "effect_no": 103,
+      "name": "Float",
+      "category": "exit",
+      "preset": "30",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 108,
+      "effect_no": 104,
+      "name": "Spiral Out",
+      "category": "exit",
+      "preset": "15",
+      "subtype": null,
+      "class": "exit"
+    },
+    {
+      "index": 110,
+      "effect_no": 105,
+      "name": "4 Point Star",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0 -0.24 L 0.0707 -0.0707 L 0.24 0 L 0.0707 0.0707 L 0 0.24 L -0.0707 0.0707 L -0.24 0 L -0.0707 -0.0707 E"
+    },
+    {
+      "index": 111,
+      "effect_no": 106,
+      "name": "5 Point Star",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0 -0.24 L 0.0588 -0.0809 L 0.2283 -0.0742 L 0.0951 0.0309 L 0.1411 0.1942 L 0 0.1 L -0.1411 0.1942 L -0.0951 0.0309 L -0.2283 -0.0742 L -0.0588 -0.0809 E"
+    },
+    {
+      "index": 112,
+      "effect_no": 107,
+      "name": "Hexagon",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.22 0 L 0.11 0.1905 L -0.11 0.1905 L -0.22 0 L -0.11 -0.1905 L 0.11 -0.1905 E"
+    },
+    {
+      "index": 113,
+      "effect_no": 108,
+      "name": "Octagon",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.22 0 L 0.1556 0.1556 L 0 0.22 L -0.1556 0.1556 L -0.22 0 L -0.1556 -0.1556 L 0 -0.22 L 0.1556 -0.1556 E"
+    },
+    {
+      "index": 114,
+      "effect_no": 109,
+      "name": "6 Point Star",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0 -0.24 L 0.05 -0.0866 L 0.2078 -0.12 L 0.1 0 L 0.2078 0.12 L 0.05 0.0866 L 0 0.24 L -0.05 0.0866 L -0.2078 0.12 L -0.1 0 L -0.2078 -0.12 L -0.05 -0.0866 E"
+    },
+    {
+      "index": 115,
+      "effect_no": 110,
+      "name": "8 Point Star",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0 -0.24 L 0.0383 -0.0924 L 0.1697 -0.1697 L 0.0924 -0.0383 L 0.24 0 L 0.0924 0.0383 L 0.1697 0.1697 L 0.0383 0.0924 L 0 0.24 L -0.0383 0.0924 L -0.1697 0.1697 L -0.0924 0.0383 L -0.24 0 L -0.0924 -0.0383 L -0.1697 -0.1697 L -0.0383 -0.0924 E"
+    },
+    {
+      "index": 116,
+      "effect_no": 111,
+      "name": "Parallelogram",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L -0.12 0.12 L 0.12 0.12 L 0.24 0 E"
+    },
+    {
+      "index": 117,
+      "effect_no": 112,
+      "name": "Pentagon",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.22 0 L 0.068 0.2092 L -0.178 0.1293 L -0.178 -0.1293 L 0.068 -0.2092 E"
+    },
+    {
+      "index": 118,
+      "effect_no": 113,
+      "name": "Circle",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.121 -0.220 0.220 -0.121 0.220 0 C 0.220 0.121 0.121 0.220 0 0.220 C -0.121 0.220 -0.220 0.121 -0.220 0 C -0.220 -0.121 -0.121 -0.220 0 -0.220 E"
+    },
+    {
+      "index": 119,
+      "effect_no": 114,
+      "name": "Crescent Moon",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.08 0.08 0.16 0.05 0.18 -0.05 C 0.12 0.0 0.06 0.0 0 0 E"
+    },
+    {
+      "index": 120,
+      "effect_no": 115,
+      "name": "Right Triangle",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.24 0 L 0 0.2 E"
+    },
+    {
+      "index": 121,
+      "effect_no": 116,
+      "name": "Square",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.2 0 L 0.2 0.2 L 0 0.2 E"
+    },
+    {
+      "index": 122,
+      "effect_no": 117,
+      "name": "Diamond",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.14 -0.14 L 0.28 0 L 0.14 0.14 E"
+    },
+    {
+      "index": 123,
+      "effect_no": 118,
+      "name": "Equal Triangle",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.2 0 L 0.1 0.17 E"
+    },
+    {
+      "index": 124,
+      "effect_no": 119,
+      "name": "Teardrop",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 -0.18 C 0.16 0.02 0.12 0.1 0.06 0.11 C 0.03 0.12 0.01 0.11 0 0.1 C -0.01 0.11 -0.03 0.12 -0.06 0.11 C -0.12 0.1 -0.16 0.02 0 -0.18 E"
+    },
+    {
+      "index": 125,
+      "effect_no": 120,
+      "name": "Trapezoid",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L -0.06 0.1 L 0.1 0.1 L 0.16 0 E"
+    },
+    {
+      "index": 126,
+      "effect_no": 121,
+      "name": "Football",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C -0.06 0.12 0.06 0.14 0.02 0.04 C 0.12 0.1 0.16 -0.1 0 -0.04 E"
+    },
+    {
+      "index": 127,
+      "effect_no": 122,
+      "name": "Heart",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0 0.05 -0.05 0.08 -0.08 0.08 C 0 -0.02 0 -0.05 0 -0.06 C 0 -0.05 0 -0.02 0.04 0.02 C 0.08 0.0 0.1 0.02 0.08 0.06 C 0.05 0.08 0.03 0.09 0 0.0 E"
+    },
+    {
+      "index": 129,
+      "effect_no": 123,
+      "name": "Arc Down",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.140 0.1 0.280 0.02 0.28 0.12 E"
+    },
+    {
+      "index": 130,
+      "effect_no": 124,
+      "name": "Arc Left",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.060 0.1 0.120 -0.38 0.12 -0.28 E"
+    },
+    {
+      "index": 131,
+      "effect_no": 125,
+      "name": "S Curve 1",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.099 -0.050 0.198 0.050 0.300 0 E"
+    },
+    {
+      "index": 132,
+      "effect_no": 126,
+      "name": "Spiral Left",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C -0.03 0.03 -0.05 0.05 -0.08 0.04 C -0.09 0.01 -0.06 -0.03 -0.02 -0.03 C 0.03 -0.02 0.02 0.05 -0.04 0.06 E"
+    },
+    {
+      "index": 133,
+      "effect_no": 127,
+      "name": "Arc Right",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.060 0.1 0.120 0.18 0.12 0.28 E"
+    },
+    {
+      "index": 134,
+      "effect_no": 128,
+      "name": "Arc Up",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.140 0.1 0.280 -0.22 0.28 -0.12 E"
+    },
+    {
+      "index": 135,
+      "effect_no": 129,
+      "name": "S Curve 2",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.099 --0.050 0.198 -0.050 0.300 0 E"
+    },
+    {
+      "index": 136,
+      "effect_no": 130,
+      "name": "Spring",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.05 0.05 0.1 -0.05 0.15 0.05 0.2 -0.05 0.25 0.05 0.3 -0.05 E"
+    },
+    {
+      "index": 137,
+      "effect_no": 131,
+      "name": "Bounce Left",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0 -0.06 L -0.05 0.02 L -0.1 -0.04 L -0.15 0 E"
+    },
+    {
+      "index": 138,
+      "effect_no": 132,
+      "name": "Bounce Right",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0 -0.06 L 0.05 0.02 L 0.1 -0.04 L 0.15 0 E"
+    },
+    {
+      "index": 139,
+      "effect_no": 133,
+      "name": "Sine Wave",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.05 0.06 0.1 -0.06 0.15 0.06 0.2 -0.06 0.25 0.06 0.3 -0.06 E"
+    },
+    {
+      "index": 140,
+      "effect_no": 134,
+      "name": "Turn Down",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.05 0 L 0.05 0.15 L 0.1 0.15 E"
+    },
+    {
+      "index": 141,
+      "effect_no": 135,
+      "name": "Curvy Left",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L -0.28 0 E"
+    },
+    {
+      "index": 142,
+      "effect_no": 136,
+      "name": "Curvy Right",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.28 0 E"
+    },
+    {
+      "index": 143,
+      "effect_no": 137,
+      "name": "Spiral Right",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.03 0.03 0.05 0.05 0.08 0.04 C 0.09 0.01 0.06 -0.03 0.02 -0.03 C -0.03 -0.02 -0.02 0.05 0.04 0.06 E"
+    },
+    {
+      "index": 144,
+      "effect_no": 138,
+      "name": "Turn Up",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.05 0 L 0.05 -0.15 L 0.1 -0.15 E"
+    },
+    {
+      "index": 145,
+      "effect_no": 139,
+      "name": "Decaying Wave",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.05 0.08 0.1 0.02 0.15 0.06 C 0.2 0.09 0.25 0.03 0.3 0.05 E"
+    },
+    {
+      "index": 146,
+      "effect_no": 140,
+      "name": "Diagonal Down Right",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.2 0.2 E"
+    },
+    {
+      "index": 147,
+      "effect_no": 141,
+      "name": "Stairs Down",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.03 -0.06 L 0.09 -0.06 L 0.12 -0.12 L 0.18 -0.12 L 0.21 -0.18 E"
+    },
+    {
+      "index": 148,
+      "effect_no": 142,
+      "name": "Up",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0 -0.24 E"
+    },
+    {
+      "index": 149,
+      "effect_no": 143,
+      "name": "Diagonal Up Right",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.2 -0.2 E"
+    },
+    {
+      "index": 150,
+      "effect_no": 144,
+      "name": "Down",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0 0.24 E"
+    },
+    {
+      "index": 151,
+      "effect_no": 145,
+      "name": "Turn Down Right",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.075 0.08 0.150 0.07 0.15 0.15 E"
+    },
+    {
+      "index": 152,
+      "effect_no": 146,
+      "name": "Zigzag",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.035 0.14 0.07 -0.14 0.105 0.14 0.14 -0.14 0.175 0.14 0.21 -0.14 0.245 0.14 0.28 -0.14 E"
+    },
+    {
+      "index": 153,
+      "effect_no": 147,
+      "name": "Funnel",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.12 0 L -0.1 0.16 L -0.02 0.16 L -0.12 0.32 L 0.02 0.32 E"
+    },
+    {
+      "index": 154,
+      "effect_no": 148,
+      "name": "Heartbeat",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.03 0 L 0.04 0.04 L 0.06 -0.02 L 0.07 0.02 L 0.12 0 E"
+    },
+    {
+      "index": 155,
+      "effect_no": 149,
+      "name": "Turn Up Right",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.075 0.08 0.150 -0.23 0.15 -0.15 E"
+    },
+    {
+      "index": 156,
+      "effect_no": 150,
+      "name": "Left",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L -0.24 0 E"
+    },
+    {
+      "index": 157,
+      "effect_no": 151,
+      "name": "Right",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.24 0 E"
+    },
+    {
+      "index": 158,
+      "effect_no": 152,
+      "name": "Wave",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.075 0.06 0.15 -0.06 0.225 0.06 0.3 -0.06 E"
+    },
+    {
+      "index": 160,
+      "effect_no": 153,
+      "name": "Bean",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.14 0.04 0.2 0.16 0.12 0.18 C 0.02 0.2 -0.1 0.12 -0.14 0.02 C -0.16 -0.04 -0.06 -0.02 0 0 E"
+    },
+    {
+      "index": 161,
+      "effect_no": 154,
+      "name": "Curved X",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.05 0.05 0.06 0.08 0 0.14 C -0.06 0.08 -0.05 0.05 0 0 E"
+    },
+    {
+      "index": 162,
+      "effect_no": 155,
+      "name": "Neutron",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.088 -0.160 0.160 -0.088 0.160 0 C 0.160 0.088 0.088 0.160 0 0.160 C -0.088 0.160 -0.160 0.088 -0.160 0 C -0.160 -0.088 -0.088 -0.160 0 -0.160 E"
+    },
+    {
+      "index": 163,
+      "effect_no": 156,
+      "name": "Peanut",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C -0.04 0.08 -0.12 0.08 -0.14 0.02 C -0.16 0.08 -0.08 0.14 0 0.12 C 0.08 0.14 0.16 0.08 0.14 0.02 C 0.12 0.08 0.04 0.08 0 0 E"
+    },
+    {
+      "index": 164,
+      "effect_no": 157,
+      "name": "Curved Square",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.05 0.02 0.12 0.02 0.16 0.06 C 0.12 0.12 0.02 0.12 -0.02 0.06 E"
+    },
+    {
+      "index": 165,
+      "effect_no": 158,
+      "name": "Figure 8 Four",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.08 0.1 0.16 0.1 0.16 0.0 C 0.16 -0.1 0.08 -0.1 0 -0.02 C 0.08 0.02 0.12 0.04 0.1 0.1 E"
+    },
+    {
+      "index": 166,
+      "effect_no": 159,
+      "name": "Plus",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.04 0.04 L 0.04 0.1 L -0.04 0.1 L -0.04 0.04 L -0.1 0.04 L -0.1 -0.04 L -0.04 -0.04 L -0.04 -0.1 L 0.04 -0.1 L 0.04 -0.04 L 0.1 -0.04 L 0.1 0.04 E"
+    },
+    {
+      "index": 167,
+      "effect_no": 160,
+      "name": "Pointy Star",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0 -0.2 L 0.0353 -0.0485 L 0.1902 -0.0618 L 0.0571 0.0185 L 0.1176 0.1618 L 0 0.06 L -0.1176 0.1618 L -0.0571 0.0185 L -0.1902 -0.0618 L -0.0353 -0.0485 E"
+    },
+    {
+      "index": 168,
+      "effect_no": 161,
+      "name": "Curvy Star",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0 -0.2 L 0.0529 -0.0728 L 0.1902 -0.0618 L 0.0856 0.0278 L 0.1176 0.1618 L 0 0.09 L -0.1176 0.1618 L -0.0856 0.0278 L -0.1902 -0.0618 L -0.0529 -0.0728 E"
+    },
+    {
+      "index": 169,
+      "effect_no": 162,
+      "name": "Inverted Square",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L 0.2 0.1 L 0 0.2 L -0.2 0.1 E"
+    },
+    {
+      "index": 170,
+      "effect_no": 163,
+      "name": "Swoosh",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.1 0.06 0.16 0.14 0.12 0.2 C 0.08 0.26 0.0 0.22 -0.04 0.16 E"
+    },
+    {
+      "index": 171,
+      "effect_no": 164,
+      "name": "Vertical Figure 8",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.1 0.06 0.14 0.14 0.08 0.18 C 0.02 0.22 -0.06 0.18 -0.04 0.12 E"
+    },
+    {
+      "index": 172,
+      "effect_no": 165,
+      "name": "Horizontal Figure 8",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C 0.06 0.1 0.14 0.1 0.14 0.02 C 0.14 -0.06 0.06 -0.06 -0.02 0.0 C 0.06 0.02 0.1 0.03 0.08 0.08 E"
+    },
+    {
+      "index": 173,
+      "effect_no": 166,
+      "name": "Inverted Triangle",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 L -0.1 -0.13 L 0.1 -0.13 E"
+    },
+    {
+      "index": 174,
+      "effect_no": 167,
+      "name": "Loop de Loop",
+      "category": "motion",
+      "preset": "0",
+      "subtype": null,
+      "class": "path",
+      "path": "M 0 0 C -0.1 -0.02 -0.12 -0.08 -0.08 -0.1 C -0.04 -0.12 0.04 -0.08 0.06 -0.02 C 0.12 0.06 0.14 0.12 0.08 0.14 C 0.02 0.16 -0.06 0.1 -0.1 0.04 E"
+    }
+  ]
+}
